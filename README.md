@@ -1,5 +1,3 @@
-Don't push changes to this repository directly.
+This was the second assignment I submitted in for COMP1511
 
-Don't change the repository via the web interface
-
-Submit your work using give, and it will be automatically pushed to this repository.
+This was a program written to help create MIDI digital music in C.
